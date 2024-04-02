@@ -1,4 +1,4 @@
 # apnacollege1-demo
 this is my first repo
 <br>
-author - praveen kumarji
+author - praveen kumarji rathore
